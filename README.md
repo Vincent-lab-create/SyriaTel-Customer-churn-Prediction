@@ -9,3 +9,4 @@ Customer churn is a critical challenge in the telecommunication industry and Syr
 - How do external market factors (e.g., competitor promotions, pricing wars) correlate with churn?
 - Do demographic factors like age, gender, or occupation correlate with churn risk?
 # Data Understanding
+The dataset I'm using find it [Here](https://www.kaggle.com/datasets/becksddf/churn-in-telecoms-dataset)
