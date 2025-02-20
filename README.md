@@ -38,3 +38,22 @@ The dataset I used find it [Here](https://www.kaggle.com/datasets/becksddf/churn
 * 5 Correlatio matrix heatmap
 
 ![image alt](https://github.com/Vincent-lab-create/SyriaTel-Customer-churn-Prediction/blob/6a7e2b1e4c86b42897798ce4d850b9d72f7ef1ec/image(13).png)
+
+
+# Feature engineering
+
+Added new features for better modelling
+ - total minutes
+ - total calls
+ - avg minutes per call 
+ - day to eve minutes ratio 
+ - night to intl minutes ratio 
+ - voicemail usage
+ - service call ratio 
+ - log total intl minutes 
+ - log customer service call
+
+
+# Feature importance
+
+![image alt](https://github.com/Vincent-lab-create/SyriaTel-Customer-churn-Prediction/blob/833f663d58488935771e428fcd318d25164e318c/image(15).png)
