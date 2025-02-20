@@ -10,3 +10,9 @@ Customer churn is a critical challenge in the telecommunication industry and Syr
 - Do demographic factors like age, gender, or occupation correlate with churn risk?
 # Data Understanding
 The dataset I used find it [Here](https://www.kaggle.com/datasets/becksddf/churn-in-telecoms-dataset)
+# Tech Stack
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+- Scikit-Learn
