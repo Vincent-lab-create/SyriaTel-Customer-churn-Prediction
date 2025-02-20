@@ -16,3 +16,25 @@ The dataset I used find it [Here](https://www.kaggle.com/datasets/becksddf/churn
 - Matplotlib
 - Seaborn
 - Scikit-Learn
+# EDA
+* 1 Top 10 states with highest churn
+
+![image alt](https://github.com/Vincent-lab-create/SyriaTel-Customer-churn-Prediction/blob/6a7e2b1e4c86b42897798ce4d850b9d72f7ef1ec/image(9).png)
+
+* 2 Churn rate by Internation and voice mail plan
+
+![image alt](https://github.com/Vincent-lab-create/SyriaTel-Customer-churn-Prediction/blob/6a7e2b1e4c86b42897798ce4d850b9d72f7ef1ec/image(7).png)
+
+* 3 Class distribution of churn
+
+![image alt](https://github.com/Vincent-lab-create/SyriaTel-Customer-churn-Prediction/blob/6a7e2b1e4c86b42897798ce4d850b9d72f7ef1ec/image(2).png)
+
+![image alt](https://github.com/Vincent-lab-create/SyriaTel-Customer-churn-Prediction/blob/6a7e2b1e4c86b42897798ce4d850b9d72f7ef1ec/image(3).png)
+
+* 4 Features correlated with churn
+
+![image alt](https://github.com/Vincent-lab-create/SyriaTel-Customer-churn-Prediction/blob/6a7e2b1e4c86b42897798ce4d850b9d72f7ef1ec/image(8).png)
+
+* 5 Correlatio matrix heatmap
+
+![image alt](https://github.com/Vincent-lab-create/SyriaTel-Customer-churn-Prediction/blob/6a7e2b1e4c86b42897798ce4d850b9d72f7ef1ec/image(13).png)
