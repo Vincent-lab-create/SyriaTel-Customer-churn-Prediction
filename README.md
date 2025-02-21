@@ -99,3 +99,4 @@ Classification Report
 
 ![image alt](https://github.com/Vincent-lab-create/SyriaTel-Customer-churn-Prediction/blob/82ae6bc2cf79b0e51515a5ca874b08bfcd2fce8c/Screenshot%202025-02-20%20184216.png)
 
+Access presentation slides [Here](https://github.com/Vincent-lab-create/SyriaTel-Customer-churn-Prediction/blob/d2c25d0d11623d52c6375590d0f7b6c606844755/Syria%20Tel%20churn%20prediction%20-%20Google%20Slides.pdf)
